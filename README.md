@@ -37,6 +37,15 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [Chrome](https://www.google.com/chrome/) | A fast, secure, and free web browser built for the modern web. |
 | :free: | [Firefox](https://www.mozilla.org/en-US/firefox/products/) | A fast, private, secure, and compatible web browser. |
 
+### Social Networking
+
+| Price | App | Intro |
+| --- | --- | --- |
+| :free:* | [Sparrow](http://files.downloadnow.com/s/software/12/64/51/82/Sparrow-latest.dmg?token=1494713999_8066befe16cc80f96d0e1afa01a711a6&fileName=Sparrow-latest.dmg) | An email client, had been acquired by Google and was ceasing continued development. |
+| :euro: | [Tweetbot](https://tapbots.com/tweetbot/mac/) | An award-winning Twitter client. |
+| :free: | [YoruFukurou](https://itunes.apple.com/us/app/night-owl/id428834068?mt=12) | A powerful native Twitter client. |
+| :free:* | [Skype](https://www.skype.com/en/) | An instant messaging app that provides online text message and video chat services. |
+
 **Note**:
 * :free: - free app 
 * :euro: - paid app
