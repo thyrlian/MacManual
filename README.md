@@ -30,6 +30,14 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free:* | [Dropbox](https://www.dropbox.com/) | Bring your photos, docs, and videos anywhere and keep your files safe. |
 | :free: | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | A Caffeine clone, prevent your Mac from entering sleep mode. |
 
+### Media
+
+| Price | App | Intro |
+| --- | --- | --- |
+| :free: | [VLC](http://www.videolan.org/vlc/download-macosx.html) | A free and open source cross-platform multimedia player and framework that plays most multimedia files. |
+| :free: | [IINA](https://github.com/lhc70000/iina) | The modern video player. |
+| :free:* | [Spotify](https://www.spotify.com/) | A digital music service that gives you access to millions of songs. |
+
 ### Internet
 
 | Price | App | Intro |
