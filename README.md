@@ -64,6 +64,14 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [iTerm2](https://www.iterm2.com/) | A replacement for Terminal and the successor to iTerm. |
 | :free: | [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) | An open source, community-driven framework for managing your zsh configuration. |
 | :free: | [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) | The most awesome Powerline theme for ZSH around. |
+| :free: | [Alacritty](https://github.com/jwilm/alacritty) | A cross-platform, GPU-accelerated terminal emulator (the fastest in existence). |
+| :free: | [Hyper](https://github.com/zeit/hyper) | A terminal built on web technologies. |
+| :free: | [Network Link Conditioner](https://developer.apple.com/download/more/?q=Additional%20Tools) | A tool to simulate various kinds of network environments. |
+| :free: | [SourceTree](https://www.sourcetreeapp.com/) | A free Mercurial and Git Client. |
+| :euro: | [Tower](https://www.git-tower.com/mac/) | A beautiful, efficient, and powerful Git version control app. |
+| :euro: | [Kaleidoscope](http://www.kaleidoscopeapp.com/) | The world's most advanced Mac diff tool. |
+| :euro: | [Monodraw](https://monodraw.helftone.com/) | An ASCII art editor. |
+| :free:* | [Dash](https://kapeli.com/dash) | Gives your Mac instant offline access to 150+ API documentation sets. |
 
 **Note**:
 * :free: - free app 
