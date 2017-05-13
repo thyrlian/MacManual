@@ -30,6 +30,13 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free:* | [Dropbox](https://www.dropbox.com/) | Bring your photos, docs, and videos anywhere and keep your files safe. |
 | :free: | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | A Caffeine clone, prevent your Mac from entering sleep mode. |
 
+### Internet
+
+| Price | App | Intro |
+| --- | --- | --- |
+| :free: | [Chrome](https://www.google.com/chrome/) | A fast, secure, and free web browser built for the modern web. |
+| :free: | [Firefox](https://www.mozilla.org/en-US/firefox/products/) | A fast, private, secure, and compatible web browser. |
+
 **Note**:
 * :free: - free app 
 * :euro: - paid app
