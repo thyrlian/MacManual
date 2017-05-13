@@ -54,6 +54,16 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [YoruFukurou](https://itunes.apple.com/us/app/night-owl/id428834068?mt=12) | A powerful native Twitter client. |
 | :free:* | [Skype](https://www.skype.com/en/) | An instant messaging app that provides online text message and video chat services. |
 
+### Developer Tools
+
+| Price | App | Intro |
+| --- | --- | --- |
+| :free: | [Homebrew](https://brew.sh/) | The missing package manager. |
+| :free: | [RVM](https://rvm.io/) | Ruby Version Manager. |
+| :free: | [iTerm2](https://www.iterm2.com/) | A replacement for Terminal and the successor to iTerm. |
+| :free: | [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) | An open source, community-driven framework for managing your zsh configuration. |
+| :free: | [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) | The most awesome Powerline theme for ZSH around. |
+
 **Note**:
 * :free: - free app 
 * :euro: - paid app
