@@ -95,3 +95,11 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 * :free: - free app 
 * :euro: - paid app
 * :free:* - free app but with paid features
+
+## dotfiles
+
+* [My dotfiles](https://github.com/thyrlian/dotfiles)
+* [Your unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/)
+* [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)
+* [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles)
+* [Paul's dotfiles](https://github.com/paulirish/dotfiles)
