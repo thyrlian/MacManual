@@ -31,6 +31,12 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | A Caffeine clone, prevent your Mac from entering sleep mode. |
 | :free:* | [Memory Clean](https://itunes.apple.com/us/app/memory-clean-monitor-and-free-up-memory/id451444120?mt=12) | The ultimate app for optimizing your Mac's memory. |
 
+### Utilities
+
+| Price | App | Intro |
+| --- | --- | --- |
+| :free: | [Mounty for NTFS](http://enjoygineering.com/mounty/) | A tiny tool to re-mount write-protected NTFS volumes. |
+
 ### Media
 
 | Price | App | Intro |
