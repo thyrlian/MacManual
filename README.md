@@ -103,3 +103,22 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 * [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)
 * [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles)
 * [Paul's dotfiles](https://github.com/paulirish/dotfiles)
+
+## How-To
+
+* Hide Spotlight inside Bartender (on macOS Sierra)
+    * Reboot into Recovery Mode (hold ⌘+R when hearing the startup chime);
+    * Go to **Utilities** -> **Terminal**, run command `csrutil disable`, then reboot;
+    * Hide Spotlight inside Bartender app;
+    * Reboot into Recovery Mode again;
+    * Go to **Utilities** -> **Terminal**, run command `csrutil enable`, then reboot.
+
+* Missing app icon on Dock, and failing to "Check for updates" (due to Gatekeeper Path Randomization on macOS Sierra)
+    * Run command: `xattr -dr com.apple.quarantine /Applications/Your.app`;
+    * Drag app back onto Dock;
+    * Reboot Mac.
+
+* Authorized Restart (to bypass FileVault 2 pre-boot login screen)
+    ```console
+    sudo fdesetup authrestart
+    ```
