@@ -29,6 +29,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [1Keyboard](https://itunes.apple.com/us/app/1keyboard/id766939888?mt=12) | Type on your iPhone, iPad or Apple TV using your Mac's keyboard. |
 | :free:* | [Dropbox](https://www.dropbox.com/) | Bring your photos, docs, and videos anywhere and keep your files safe. |
 | :free: | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | A Caffeine clone, prevent your Mac from entering sleep mode. |
+| :free:* | [Memory Clean](https://itunes.apple.com/us/app/memory-clean-monitor-and-free-up-memory/id451444120?mt=12) | The ultimate app for optimizing your Mac's memory. |
 
 ### Media
 
