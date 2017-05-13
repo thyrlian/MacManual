@@ -66,12 +66,24 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) | The most awesome Powerline theme for ZSH around. |
 | :free: | [Alacritty](https://github.com/jwilm/alacritty) | A cross-platform, GPU-accelerated terminal emulator (the fastest in existence). |
 | :free: | [Hyper](https://github.com/zeit/hyper) | A terminal built on web technologies. |
-| :free: | [Network Link Conditioner](https://developer.apple.com/download/more/?q=Additional%20Tools) | A tool to simulate various kinds of network environments. |
+| :free: | [TextMate](https://macromates.com/) | A graphical text editor. |
+| :free: | [Atom](https://atom.io/) | A free and open-source text and source code editor. |
+| :euro: | [Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose. |
 | :free: | [SourceTree](https://www.sourcetreeapp.com/) | A free Mercurial and Git Client. |
 | :euro: | [Tower](https://www.git-tower.com/mac/) | A beautiful, efficient, and powerful Git version control app. |
 | :euro: | [Kaleidoscope](http://www.kaleidoscopeapp.com/) | The world's most advanced Mac diff tool. |
 | :euro: | [Monodraw](https://monodraw.helftone.com/) | An ASCII art editor. |
 | :free:* | [Dash](https://kapeli.com/dash) | Gives your Mac instant offline access to 150+ API documentation sets. |
+| :euro: | [Charles Proxy](https://www.charlesproxy.com/) | A proxy / monitor enables a developer to view all traffic between their machine and the Internet. |
+| :free: | [Cocoa Rest Client](http://mmattozzi.github.io/cocoa-rest-client/) | A free open source, native Apple OS X app for testing HTTP/REST endpoints. |
+| :free: | [Xcode](https://developer.apple.com/download/) | An IDE containing a suite of software development tools for macOS, iOS, watchOS and tvOS. |
+| :free: | [Network Link Conditioner](https://developer.apple.com/download/more/?q=Additional%20Tools) | A tool to simulate various kinds of network environments. |
+| :euro: | [Reveal](https://revealapp.com/) | Advanced visualisations, comprehensive inspectors and the ability to modify applications on the fly. |
+| :free: | [Android Studio](https://developer.android.com/studio/index.html) | The Official IDE for Android. |
+| :free:* | [Genymotion](https://www.genymotion.com/) | The most powerful Android emulation platform for app developers & testers. |
+| :free: | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | A free and open-source hypervisor for x86 virtualization. |
+| :free:* | [IntelliJ IDEA](https://www.jetbrains.com/idea/) | A Java IDE. |
+| :free: | [Visual Studio Code](https://code.visualstudio.com/) | A code editor redefined and optimized for building and debugging modern web and cloud applications. |
 
 **Note**:
 * :free: - free app 
