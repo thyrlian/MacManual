@@ -17,6 +17,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [ForkLift](http://www.binarynights.com/forklift/) | The most advanced dual pane file manager and file transfer client. |
 | :free: | [muCommander](http://www.mucommander.com/) | A cross-platform, lightweight, open-source file manager. |
 | :euro: | [Divvy](http://mizage.com/divvy/) | A utility to quickly resize and position your windows. |
+| :euro: | [Magnet](http://magnet.crowdcafe.com/) | Declutters your screen by snapping windows into organized tiles. |
 | :euro: | [Paste](http://pasteapp.me/) | Keeps track of everything you've ever copied and lets you access your clipboard history anytime across. |
 | :euro: | [Unclutter](https://unclutterapp.com/) | A new handy place on your desktop for storing notes, files and pasteboard clips. |
 | :euro: | [Fantastical](https://flexibits.com/fantastical) | A calendar app let you quickly create new events and reminders with natural language input and more. |
