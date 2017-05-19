@@ -83,6 +83,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [Monodraw](https://monodraw.helftone.com/) | An ASCII art editor. |
 | :free:* | [Dash](https://kapeli.com/dash) | Gives your Mac instant offline access to 150+ API documentation sets. |
 | :euro: | [Charles Proxy](https://www.charlesproxy.com/) | A proxy / monitor enables a developer to view all traffic between their machine and the Internet. |
+| :free: | [Postman](https://www.getpostman.com/) | The complete toolchain for API developers. |
 | :free: | [Cocoa Rest Client](http://mmattozzi.github.io/cocoa-rest-client/) | A free open source, native Apple OS X app for testing HTTP/REST endpoints. |
 | :free:* | [Insomnia](https://insomnia.rest/) | A powerful REST API Client with cookie management, environment variables, code generation, and authentication. |
 | :free: | [Xcode](https://developer.apple.com/download/) | An IDE containing a suite of software development tools for macOS, iOS, watchOS and tvOS. |
