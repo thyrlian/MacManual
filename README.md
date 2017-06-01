@@ -59,7 +59,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 
 | Price | App | Intro |
 | --- | --- | --- |
-| :free:* | [Sparrow](http://files.downloadnow.com/s/software/12/64/51/82/Sparrow-latest.dmg?token=1494713999_8066befe16cc80f96d0e1afa01a711a6&fileName=Sparrow-latest.dmg) | An email client, had been acquired by Google and was ceasing continued development. |
+| :free:* | [Sparrow](https://github.com/thyrlian/MacManual/blob/master/archive/Sparrow-latest-1.6.4(1176).dmg?raw=true) | An email client, had been acquired by Google and was ceasing continued development. |
 | :euro: | [Tweetbot](https://tapbots.com/tweetbot/mac/) | An award-winning Twitter client. |
 | :free: | [YoruFukurou](https://itunes.apple.com/us/app/night-owl/id428834068?mt=12) | A powerful native Twitter client. |
 | :free:* | [Skype](https://www.skype.com/en/) | An instant messaging app that provides online text message and video chat services. |
