@@ -82,6 +82,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [Tower](https://www.git-tower.com/mac/) | A beautiful, efficient, and powerful Git version control app. |
 | :euro: | [Kaleidoscope](http://www.kaleidoscopeapp.com/) | The world's most advanced Mac diff tool. |
 | :euro: | [Monodraw](https://monodraw.helftone.com/) | An ASCII art editor. |
+| :free: | [Docker](https://www.docker.com/) | An open platform for developers and sysadmins to build, ship, and run distributed applications. |
 | :free:* | [Dash](https://kapeli.com/dash) | Gives your Mac instant offline access to 150+ API documentation sets. |
 | :euro: | [Charles Proxy](https://www.charlesproxy.com/) | A proxy / monitor enables a developer to view all traffic between their machine and the Internet. |
 | :free: | [Postman](https://www.getpostman.com/) | The complete toolchain for API developers. |
