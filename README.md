@@ -70,6 +70,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | --- | --- | --- |
 | :free: | [Homebrew](https://brew.sh/) | The missing package manager. |
 | :free: | [RVM](https://rvm.io/) | Ruby Version Manager. |
+| :free: | [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) | Includes a complete JRE plus tools for developing, debugging, and monitoring Java applications. |
 | :free: | [iTerm2](https://www.iterm2.com/) | A replacement for Terminal and the successor to iTerm. |
 | :free: | [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) | An open source, community-driven framework for managing your zsh configuration. |
 | :free: | [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) | The most awesome Powerline theme for ZSH around. |
