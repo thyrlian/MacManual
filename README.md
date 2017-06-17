@@ -104,6 +104,11 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 * :euro: - paid app
 * :free:* - free app but with paid features
 
+## Homebrew Packages
+
+* tree
+* wget
+
 ## dotfiles
 
 * [My dotfiles](https://github.com/thyrlian/dotfiles)
