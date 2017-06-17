@@ -46,6 +46,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | --- | --- | --- |
 | :free: | [VLC](http://www.videolan.org/vlc/download-macosx.html) | A free and open source cross-platform multimedia player and framework that plays most multimedia files. |
 | :free: | [IINA](https://github.com/lhc70000/iina) | The modern video player. |
+| :free: | [Kodi](https://kodi.tv/) | A free media player that is designed to look great on your big screen TV but is just as home on a small screen. |
 | :free:* | [Spotify](https://www.spotify.com/) | A digital music service that gives you access to millions of songs. |
 
 ### Internet
