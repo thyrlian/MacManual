@@ -30,6 +30,8 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free:* | [1Password](https://itunes.apple.com/us/app/1password-password-manager-and-secure-wallet/id568903335?mt=8) | Put Passwords In Their Place. |
 | :euro: | [1Keyboard](https://itunes.apple.com/us/app/1keyboard/id766939888?mt=12) | Type on your iPhone, iPad or Apple TV using your Mac's keyboard. |
 | :free:* | [Dropbox](https://www.dropbox.com/) | Bring your photos, docs, and videos anywhere and keep your files safe. |
+| :euro:* | [PDF Expert](https://pdfexpert.com/) | Read, annotate and edit PDFs, change text and images. Fill forms and sign contracts like never before. |
+| :free:* | [Anki](https://apps.ankiweb.net/) | A friendly and intelligent flash cards program which makes remembering things easy. |
 | :free: | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | A Caffeine clone, prevent your Mac from entering sleep mode. |
 | :free:* | [Memory Clean](https://itunes.apple.com/us/app/memory-clean-monitor-and-free-up-memory/id451444120?mt=12) | The ultimate app for optimizing your Mac's memory. |
 | :euro: | [Duet](https://www.duetdisplay.com/) | Lets you use your iPad or iPhone as an external monitor. |
