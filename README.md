@@ -102,6 +102,13 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [Visual Studio Code](https://code.visualstudio.com/) | A code editor redefined and optimized for building and debugging modern web and cloud applications. |
 | :free: | [CCMenu](http://ccmenu.org/) | Displays the build status of projects on a continuous integration server as an item in the Mac's menu bar. |
 
+### Design Tools
+
+| Price | App | Intro |
+| --- | --- | --- |
+| :euro: | [Sketch](https://sketchapp.com/) | The ultimate tool for designing user interfaces, websites, and icons. |
+| :euro: | [Affinity Photo](https://affinity.serif.com/en-us/photo/) | The fastest, smoothest, most precise professional image editing software. |
+
 **Note**:
 * :free: - free app 
 * :euro: - paid app
