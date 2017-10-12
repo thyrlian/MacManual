@@ -101,6 +101,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free:* | [IntelliJ IDEA](https://www.jetbrains.com/idea/) | A Java IDE. |
 | :free: | [Visual Studio Code](https://code.visualstudio.com/) | A code editor redefined and optimized for building and debugging modern web and cloud applications. |
 | :free: | [CCMenu](http://ccmenu.org/) | Displays the build status of projects on a continuous integration server as an item in the Mac's menu bar. |
+| :free: | [Etcher](https://etcher.io/) | Burn images to SD cards & USB drives, safely and easily. |
 
 ### Design Tools
 
