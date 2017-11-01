@@ -22,7 +22,6 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [Paste](http://pasteapp.me/) | Keeps track of everything you've ever copied and lets you access your clipboard history anytime across. |
 | :euro: | [Unclutter](https://unclutterapp.com/) | A new handy place on your desktop for storing notes, files and pasteboard clips. |
 | :euro: | [Fantastical](https://flexibits.com/fantastical) | A calendar app let you quickly create new events and reminders with natural language input and more. |
-| :euro: | [Quiver](http://happenapps.com/#quiver) | A notebook built for programmers. |
 | :free:* | [Evernote](https://evernote.com/) | Collect, nurture, and share ideas across desktop and mobile platforms with it. |
 | :free:* | [Wunderlist](https://www.wunderlist.com/) | A simple todo list and task manager app that helps you get stuff done. |
 | :euro: | [OmniFocus](https://www.omnigroup.com/omnifocus) | A personal task manager designed to quickly capture your thoughts and allow you to store, manage, and process them into actionable to-do items. |
@@ -87,6 +86,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [Tower](https://www.git-tower.com/mac/) | A beautiful, efficient, and powerful Git version control app. |
 | :euro: | [Kaleidoscope](http://www.kaleidoscopeapp.com/) | The world's most advanced Mac diff tool. |
 | :euro: | [Monodraw](https://monodraw.helftone.com/) | An ASCII art editor. |
+| :euro: | [Quiver](http://happenapps.com/#quiver) | A notebook built for programmers. |
 | :free: | [Docker](https://www.docker.com/) | An open platform for developers and sysadmins to build, ship, and run distributed applications. |
 | :free:* | [Dash](https://kapeli.com/dash) | Gives your Mac instant offline access to 150+ API documentation sets. |
 | :euro: | [Charles Proxy](https://www.charlesproxy.com/) | A proxy / monitor enables a developer to view all traffic between their machine and the Internet. |
