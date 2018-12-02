@@ -115,6 +115,12 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [Sketch](https://sketchapp.com/) | The ultimate tool for designing user interfaces, websites, and icons. |
 | :euro: | [Affinity Photo](https://affinity.serif.com/en-us/photo/) | The fastest, smoothest, most precise professional image editing software. |
 
+### Other Goodies
+
+| Price | App | Intro |
+| --- | --- | --- |
+| :free: | [Aerial](https://github.com/JohnCoates/Aerial) | Apple TV Aerial Screensaver for Mac. |
+
 **Note**:
 * :free: - free app 
 * :euro: - paid app
