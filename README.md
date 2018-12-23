@@ -26,6 +26,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free:* | [Wunderlist](https://www.wunderlist.com/) | A simple todo list and task manager app that helps you get stuff done. |
 | :euro: | [OmniFocus](https://www.omnigroup.com/omnifocus) | A personal task manager designed to quickly capture your thoughts and allow you to store, manage, and process them into actionable to-do items. |
 | :euro: | [OmniGraffle](https://www.omnigroup.com/omnigraffle) | A diagramming and digital illustration application for creating beautiful, precise graphics. |
+| :euro: | [iA Writer](https://ia.net/writer) | A text editor removes distractions, giving you a calm, focused writing space. |
 | :free:* | [Pocket](https://itunes.apple.com/app/pocket/id568494494?ls=1&mt=12) | When you find something you want to view later, put it in Pocket. |
 | :free: | [Simplenote](https://simplenote.com/) | An easy way to keep notes, lists, ideas and more. Light, clean, and free. |
 | :free:* | [1Password](https://itunes.apple.com/us/app/1password-password-manager-and-secure-wallet/id568903335?mt=8) | Put Passwords In Their Place. |
