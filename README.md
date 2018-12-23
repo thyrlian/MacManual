@@ -67,6 +67,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 
 | Price | App | Intro |
 | --- | --- | --- |
+| :euro: | [Airmail](http://airmailapp.com/) | A lightning Fast Mail Client for Mac. |
 | :free:* | [Sparrow](https://github.com/thyrlian/MacManual/blob/master/Archives/Sparrow-latest-1.6.4(1176).dmg?raw=true) | An email client, had been acquired by Google and was ceasing continued development. |
 | :euro: | [Tweetbot](https://tapbots.com/tweetbot/mac/) | An award-winning Twitter client. |
 | :free: | [YoruFukurou](https://itunes.apple.com/us/app/night-owl/id428834068?mt=12) | A powerful native Twitter client. |
