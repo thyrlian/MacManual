@@ -38,6 +38,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) | The most awesome keep-awake utility ever created. |
 | :free: | [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | A Caffeine clone, prevent your Mac from entering sleep mode. |
 | :free:* | [Memory Clean](https://itunes.apple.com/us/app/memory-clean-monitor-and-free-up-memory/id451444120?mt=12) | The ultimate app for optimizing your Mac's memory. |
+| :euro: | [SwitchResX](http://www.madrau.com/) | The most advanced tool lets you easily change your display resolution and adjust other monitor settings directly from your menu bar or by using the Contextual Menu. |
 | :euro: | [Duet](https://www.duetdisplay.com/) | Lets you use your iPad or iPhone as an external monitor. |
 
 ### Utilities
