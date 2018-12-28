@@ -118,6 +118,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | --- | --- | --- |
 | :euro: | [Sketch](https://sketchapp.com/) | The ultimate tool for designing user interfaces, websites, and icons. |
 | :euro: | [Affinity Photo](https://affinity.serif.com/en-us/photo/) | The fastest, smoothest, most precise professional image editing software. |
+| :free: | [GIF Brewery](https://gfycat.com/gifbrewery) | Gives everyone the power to create stunning GIFs from video files. |
 
 ### Other Goodies
 
