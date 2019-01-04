@@ -125,6 +125,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | Price | App | Intro |
 | --- | --- | --- |
 | :free: | [Aerial](https://github.com/JohnCoates/Aerial) | Apple TV Aerial Screensaver for Mac. |
+| :free: | [Reeder 3](http://reederapp.com/mac/) | A RSS reader client. |
 
 **Note**:
 * :free: - free app 
