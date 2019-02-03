@@ -48,6 +48,14 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [Munki](https://www.munki.org/munki/) | A collection of open-source tools used to manage installation of software packages on macOS client machines. |
 | :free: | [Mounty for NTFS](http://enjoygineering.com/mounty/) | A tiny tool to re-mount write-protected NTFS volumes. |
 
+### Design Tools
+
+| Price | App | Intro |
+| --- | --- | --- |
+| :euro: | [Sketch](https://sketchapp.com/) | The ultimate tool for designing user interfaces, websites, and icons. |
+| :euro: | [Affinity Photo](https://affinity.serif.com/en-us/photo/) | The fastest, smoothest, most precise professional image editing software. |
+| :free: | [GIF Brewery](https://gfycat.com/gifbrewery) | Gives everyone the power to create stunning GIFs from video files. |
+
 ### Media
 
 | Price | App | Intro |
@@ -111,14 +119,6 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [Visual Studio Code](https://code.visualstudio.com/) | A code editor redefined and optimized for building and debugging modern web and cloud applications. |
 | :free: | [CCMenu](http://ccmenu.org/) | Displays the build status of projects on a continuous integration server as an item in the Mac's menu bar. |
 | :free: | [Etcher](https://www.balena.io/etcher/) | Burn images to SD cards & USB drives, safely and easily. |
-
-### Design Tools
-
-| Price | App | Intro |
-| --- | --- | --- |
-| :euro: | [Sketch](https://sketchapp.com/) | The ultimate tool for designing user interfaces, websites, and icons. |
-| :euro: | [Affinity Photo](https://affinity.serif.com/en-us/photo/) | The fastest, smoothest, most precise professional image editing software. |
-| :free: | [GIF Brewery](https://gfycat.com/gifbrewery) | Gives everyone the power to create stunning GIFs from video files. |
 
 ### Other Goodies
 
