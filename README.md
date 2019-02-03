@@ -164,7 +164,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 * Downloading **m3u8** playlist with a bunch of **ts** files, and combining them into a single video file:
 
   ```bash
-  ffmpeg -i "M3U8_URL" -bsf:a aac_adtstoasc -vcodec copy -c copy -crf 50 OUTPUT_FILE.MP4
+  ffmpeg -headers "ANY_NECESSARY_HEADER" -i "M3U8_URL" -bsf:a aac_adtstoasc -vcodec copy -c copy -crf 50 OUTPUT_FILE.MP4
   ```
 
 ## How-To
