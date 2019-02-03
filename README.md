@@ -161,6 +161,12 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
   /System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py -o PATH/TO/YOUR/MERGED/FILE.pdf /PATH/TO/ORIGINAL/1.pdf /PATH/TO/ANOTHER/2.pdf /PATH/TO/A/WHOLE/DIR/*.pdf
   ```
 
+* Downloading **m3u8** playlist with a bunch of **ts** files, and combining them into a single video file:
+
+  ```bash
+  ffmpeg -i M3U8_URL -bsf:a aac_adtstoasc -vcodec copy -c copy -crf 50 OUTPUT_FILE.MP4
+  ```
+
 ## How-To
 
 * Hiding Spotlight inside Bartender (on macOS Sierra)
