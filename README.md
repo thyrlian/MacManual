@@ -147,9 +147,23 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 * [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles)
 * [Paul's dotfiles](https://github.com/paulirish/dotfiles)
 
+## Collection of Commands
+
+* Converting **SVG** to **PNG**:
+
+  ```bash
+  qlmanage -t -s WIDTH_IN_PIXEL -o . IMAGE_TO_BE_CONVERTED.SVG
+  ```
+
+* Joining pages from a a collection of **PDF** files into a single PDF file:
+
+  ```bash
+  /System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Resources/join.py -o PATH/TO/YOUR/MERGED/FILE.pdf /PATH/TO/ORIGINAL/1.pdf /PATH/TO/ANOTHER/2.pdf /PATH/TO/A/WHOLE/DIR/*.pdf
+  ```
+
 ## How-To
 
-* Hide Spotlight inside Bartender (on macOS Sierra)
+* Hiding Spotlight inside Bartender (on macOS Sierra)
     * Reboot into Recovery Mode (hold ⌘+R when hearing the startup chime);
     * Go to **Utilities** -> **Terminal**, run command `csrutil disable`, then reboot;
     * Hide Spotlight inside Bartender app;
