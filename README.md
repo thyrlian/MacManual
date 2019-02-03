@@ -65,6 +65,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [IINA](https://github.com/lhc70000/iina) | The modern video player. |
 | :free: | [Kodi](https://kodi.tv/) | A free media player that is designed to look great on your big screen TV but is just as home on a small screen. |
 | :free:* | [Spotify](https://www.spotify.com/) | A digital music service that gives you access to millions of songs. |
+| :euro: | [Permute](https://software.charliemonroe.net/permute.php) | The easiest to use media converter with it's easy to use, no configuration, drag and drop interface, it will meet the needs to convert all your media files. |
 
 ### Internet
 
