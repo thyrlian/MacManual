@@ -13,6 +13,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | Price | App | Intro |
 | --- | --- | --- |
 | :free:* | [Alfred](https://www.alfredapp.com/) | An application launcher and productivity application, which boosts your efficiency with hotkeys, keywords and text expansion. |
+| :free: | [Hammerspoon](http://www.hammerspoon.org/) | A tool for powerful automation of OS X. |
 | :euro: | [Bartender](https://www.macbartender.com/) | Lets you organize your menu bar apps, by hiding them, rearranging them, or moving them to the Bartender Bar. |
 | :euro: | [ForkLift](http://www.binarynights.com/forklift/) | The most advanced dual pane file manager and file transfer client. |
 | :free: | [muCommander](http://www.mucommander.com/) | A cross-platform, lightweight, open-source file manager. |
