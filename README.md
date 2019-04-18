@@ -15,6 +15,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free:* | [Alfred](https://www.alfredapp.com/) | An application launcher and productivity application, which boosts your efficiency with hotkeys, keywords and text expansion. |
 | :free: | [Hammerspoon](http://www.hammerspoon.org/) | A tool for powerful automation of OS X. |
 | :euro: | [Bartender](https://www.macbartender.com/) | Lets you organize your menu bar apps, by hiding them, rearranging them, or moving them to the Bartender Bar. |
+| :free: | [Dozer](https://dozermac.com/) | Lets you hide menu bar items to give your Mac a cleaner look. |
 | :euro: | [ForkLift](http://www.binarynights.com/forklift/) | The most advanced dual pane file manager and file transfer client. |
 | :free: | [muCommander](http://www.mucommander.com/) | A cross-platform, lightweight, open-source file manager. |
 | :free: | [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) | A small and easy to use program that can unarchive many different kinds of archive files. |
