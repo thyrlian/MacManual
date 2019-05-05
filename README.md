@@ -57,6 +57,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | --- | --- | --- |
 | :euro: | [Sketch](https://sketchapp.com/) | The ultimate tool for designing user interfaces, websites, and icons. |
 | :euro: | [Affinity Photo](https://affinity.serif.com/en-us/photo/) | The fastest, smoothest, most precise professional image editing software. |
+| :euro: | [IconJar](https://geticonjar.com/) | Stores all your icons in one place, just a click away, leaves digging through your design asset folders behind and lets you access your icons without the hassle. |
 | :free: | [GIF Brewery](https://gfycat.com/gifbrewery) | Gives everyone the power to create stunning GIFs from video files. |
 
 ### Media
