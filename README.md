@@ -19,6 +19,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [ForkLift](http://www.binarynights.com/forklift/) | The most advanced dual pane file manager and file transfer client. |
 | :free: | [muCommander](http://www.mucommander.com/) | A cross-platform, lightweight, open-source file manager. |
 | :free: | [The Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) | A small and easy to use program that can unarchive many different kinds of archive files. |
+| :free: / :euro: | [Keka](https://www.keka.io/) | A macOS file archiver, stores more, shares with privacy. |
 | :euro: | [Divvy](http://mizage.com/divvy/) | A utility to quickly resize and position your windows. |
 | :euro: | [Magnet](http://magnet.crowdcafe.com/) | Declutters your screen by snapping windows into organized tiles. |
 | :euro: | [Paste](http://pasteapp.me/) | Keeps track of everything you've ever copied and lets you access your clipboard history anytime across. |
