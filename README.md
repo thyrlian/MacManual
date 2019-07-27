@@ -104,6 +104,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [TextMate](https://macromates.com/) | A graphical text editor. |
 | :free: | [Atom](https://atom.io/) | A free and open-source text and source code editor. |
 | :euro: | [Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose. |
+| :free: | [Fork](https://git-fork.com/) | A fast and friendly git client for Mac and Windows. |
 | :free: | [SourceTree](https://www.sourcetreeapp.com/) | A free Mercurial and Git Client. |
 | :euro: | [Tower](https://www.git-tower.com/mac/) | A beautiful, efficient, and powerful Git version control app. |
 | :euro: | [Kaleidoscope](http://www.kaleidoscopeapp.com/) | The world's most advanced Mac diff tool. |
