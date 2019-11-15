@@ -145,6 +145,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 * tree
 * wget
 * node
+* jq
 
 ## dotfiles
 
