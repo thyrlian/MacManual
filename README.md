@@ -24,6 +24,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [Divvy](http://mizage.com/divvy/) | A utility to quickly resize and position your windows. |
 | :euro: | [Magnet](http://magnet.crowdcafe.com/) | Declutters your screen by snapping windows into organized tiles. |
 | :euro: | [Paste](http://pasteapp.me/) | Keeps track of everything you've ever copied and lets you access your clipboard history anytime across. |
+| :free: | [Clipy](https://clipy-app.com/) | A Clipboard extension app for macOS. |
 | :euro: | [Unclutter](https://unclutterapp.com/) | A new handy place on your desktop for storing notes, files and pasteboard clips. |
 | :euro: | [Fantastical](https://flexibits.com/fantastical) | A calendar app let you quickly create new events and reminders with natural language input and more. |
 | :free:* | [Evernote](https://evernote.com/) | Collect, nurture, and share ideas across desktop and mobile platforms with it. |
