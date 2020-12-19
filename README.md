@@ -148,6 +148,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 * wget
 * node
 * jq
+* [monitorcontrol](https://github.com/MonitorControl/MonitorControl)
 
 ## dotfiles
 
