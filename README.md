@@ -52,6 +52,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 
 | Price | App | Intro |
 | --- | --- | --- |
+| :euro: | [ToothFairy](https://c-command.com/toothfairy/) | Connect AirPods (or other Bluetooth headphones) to your Mac with a single click or keypress. |
 | :free: | [Munki](https://www.munki.org/munki/) | A collection of open-source tools used to manage installation of software packages on macOS client machines. |
 | :free: | [Mounty for NTFS](http://enjoygineering.com/mounty/) | A tiny tool to re-mount write-protected NTFS volumes. |
 
