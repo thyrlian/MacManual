@@ -162,6 +162,12 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 
 ## Collection of Commands
 
+* Disable screenshot shadow
+
+  ```bash
+  defaults write com.apple.screencapture disable-shadow -bool true; killall SystemUIServer
+  ```
+
 * Converting **SVG** to **PNG**:
 
   ```bash
