@@ -102,7 +102,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) | Includes a complete JRE plus tools for developing, debugging, and monitoring Java applications. |
 | :free: | [iTerm2](https://www.iterm2.com/) | A replacement for Terminal and the successor to iTerm. |
 | :free: | [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) | An open source, community-driven framework for managing your zsh configuration. |
-| :free: | [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) | The most awesome Powerline theme for ZSH around. |
+| :free: | [Powerlevel10k](https://github.com/romkatv/powerlevel10k) | The most awesome Powerline theme for ZSH around. |
 | :free: | [Alacritty](https://github.com/jwilm/alacritty) | A cross-platform, GPU-accelerated terminal emulator (the fastest in existence). |
 | :free: | [Hyper](https://github.com/zeit/hyper) | A terminal built on web technologies. |
 | :free: | [TextMate](https://macromates.com/) | A graphical text editor. |
