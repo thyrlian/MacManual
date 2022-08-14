@@ -195,6 +195,8 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
     * Reboot into Recovery Mode again;
     * Go to **Utilities** -> **Terminal**, run command `csrutil enable`, then reboot.
 
+* I don't wanna have the Music app from Apple.  Well, you can't delete or disable it, but try [noTunes](https://github.com/tombonez/noTunes).
+
 * Missing app icon on Dock, and failing to "Check for updates" (due to Gatekeeper Path Randomization on macOS Sierra)
     * Run command: `xattr -dr com.apple.quarantine /Applications/Your.app`;
     * Drag app back onto Dock;
