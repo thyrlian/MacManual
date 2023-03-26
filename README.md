@@ -168,6 +168,12 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
   defaults write com.apple.screencapture disable-shadow -bool true; killall SystemUIServer
   ```
 
+* Set sidebar display default to Thumbnails
+
+  ```bash
+  defaults write com.apple.Preview PVPDFSuppressSidebarOnOpening -bool false
+  ```
+
 * Converting **SVG** to **PNG**:
 
   ```bash
