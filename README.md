@@ -33,6 +33,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [OmniFocus](https://www.omnigroup.com/omnifocus) | A personal task manager designed to quickly capture your thoughts and allow you to store, manage, and process them into actionable to-do items. |
 | :euro: | [OmniGraffle](https://www.omnigroup.com/omnigraffle) | A diagramming and digital illustration application for creating beautiful, precise graphics. |
 | :euro: | [iA Writer](https://ia.net/writer) | A text editor removes distractions, giving you a calm, focused writing space. |
+| :free:* | [Obsidian](https://obsidian.md/) | A private and flexible writing app that adapts to the way you think. |
 | :free:* | [Pocket](https://itunes.apple.com/app/pocket/id568494494?ls=1&mt=12) | When you find something you want to view later, put it in Pocket. |
 | :free: | [Simplenote](https://simplenote.com/) | An easy way to keep notes, lists, ideas and more. Light, clean, and free. |
 | :free: | [Buttercup](https://buttercup.pw/) | The Password Manager You Deserve. |
