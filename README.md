@@ -150,7 +150,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 * tree
 * wget
 * node
-* jq
+* [jq](https://jqlang.github.io/jq/)
 * [monitorcontrol](https://github.com/MonitorControl/MonitorControl)
 
 ## dotfiles
