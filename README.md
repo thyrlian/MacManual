@@ -34,8 +34,9 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [OmniGraffle](https://www.omnigroup.com/omnigraffle) | A diagramming and digital illustration application for creating beautiful, precise graphics. |
 | :euro: | [iA Writer](https://ia.net/writer) | A text editor removes distractions, giving you a calm, focused writing space. |
 | :free:* | [Obsidian](https://obsidian.md/) | A private and flexible writing app that adapts to the way you think. |
-| :free:* | [Pocket](https://itunes.apple.com/app/pocket/id568494494?ls=1&mt=12) | When you find something you want to view later, put it in Pocket. |
+| :free:* | [Instapaper](https://www.instapaper.com/) | Syncs the articles and videos you save so that you can read them anywhere and anytime you want, even offline. |
 | :free: | [Simplenote](https://simplenote.com/) | An easy way to keep notes, lists, ideas and more. Light, clean, and free. |
+| :euro: | [Texifier](https://www.texifier.com/mac) | An editor and a productivity tool for academic and professional writing in LaTeX. |
 | :free: | [Buttercup](https://buttercup.pw/) | The Password Manager You Deserve. |
 | :free:* | [1Password](https://itunes.apple.com/us/app/1password-password-manager-and-secure-wallet/id568903335?mt=8) | Put Passwords In Their Place. |
 | :euro: | [1Keyboard](https://itunes.apple.com/us/app/1keyboard/id766939888?mt=12) | Type on your iPhone, iPad or Apple TV using your Mac's keyboard. |
