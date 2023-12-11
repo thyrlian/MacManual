@@ -154,6 +154,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 * [jq](https://jqlang.github.io/jq/)
 * webp
 * [monitorcontrol](https://github.com/MonitorControl/MonitorControl)
+* [axel](https://github.com/axel-download-accelerator/axel)
 
 ## dotfiles
 
