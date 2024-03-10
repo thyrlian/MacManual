@@ -155,6 +155,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 * webp
 * [monitorcontrol](https://github.com/MonitorControl/MonitorControl)
 * [axel](https://github.com/axel-download-accelerator/axel)
+* [imagemagick](https://imagemagick.org/)
 
 ## dotfiles
 
