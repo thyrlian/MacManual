@@ -133,6 +133,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [Visual Studio Code](https://code.visualstudio.com/) | A code editor redefined and optimized for building and debugging modern web and cloud applications. |
 | :free: | [CCMenu](http://ccmenu.org/) | Displays the build status of projects on a continuous integration server as an item in the Mac's menu bar. |
 | :free: | [Etcher](https://www.balena.io/etcher/) | Burn images to SD cards & USB drives, safely and easily. |
+| :free: | [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-mac-download/) | Formats SD Memory Card, SDHC Memory Card and SDXC Memory Card (respectively SD/SDHC/SDXC Cards) complying with the SD File System Specification created by the SD Association (SDA). |
 
 ### Other Goodies
 
