@@ -202,7 +202,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 * To remove the lock icon from a file attachment stored in **1Password**:
 
   ```bash
-  filename="<your filename here>" && sudo chflags nouchg "$filename" && ls -lO "$filename" && for attr in $(xattr "$filename"); do xattr -d "$attr" "$filename"; done
+  filename="YOUR_FILENAME_HERE" && sudo chflags nouchg "$filename" && ls -lO "$filename" && for attr in $(xattr "$filename"); do xattr -d "$attr" "$filename"; done
   ```
 
 ## How-To
