@@ -199,6 +199,12 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
   ffmpeg -headers "ANY_NECESSARY_HEADER" -i "M3U8_URL" -bsf:a aac_adtstoasc -vcodec copy -c copy -crf 50 OUTPUT_FILE.MP4
   ```
 
+* To remove the lock icon from a file attachment stored in **1Password**:
+
+  ```bash
+  filename="<your filename here>" && sudo chflags nouchg "$filename" && ls -lO "$filename" && for attr in $(xattr "$filename"); do xattr -d "$attr" "$filename"; done
+  ```
+
 ## How-To
 
 * Hiding Spotlight inside Bartender (on macOS Sierra)
