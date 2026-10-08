@@ -109,6 +109,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [Ghostty](https://ghostty.org/) | A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
 | :free: | [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) | An open source, community-driven framework for managing your zsh configuration. |
 | :free: | [Powerlevel10k](https://github.com/romkatv/powerlevel10k) | The most awesome Powerline theme for ZSH around. |
+| :free: | [Spaceship](https://spaceship-prompt.sh/) | Minimalistic, powerful and extremely customizable Zsh prompt. |
 | :free: | [Alacritty](https://github.com/jwilm/alacritty) | A cross-platform, GPU-accelerated terminal emulator (the fastest in existence). |
 | :free: | [Hyper](https://github.com/zeit/hyper) | A terminal built on web technologies. |
 | :free: | [TextMate](https://macromates.com/) | A graphical text editor. |
