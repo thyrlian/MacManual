@@ -33,13 +33,15 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free:* | [Wunderlist](https://www.wunderlist.com/) | A simple todo list and task manager app that helps you get stuff done. |
 | :euro: | [OmniFocus](https://www.omnigroup.com/omnifocus) | A personal task manager designed to quickly capture your thoughts and allow you to store, manage, and process them into actionable to-do items. |
 | :euro: | [OmniGraffle](https://www.omnigroup.com/omnigraffle) | A diagramming and digital illustration application for creating beautiful, precise graphics. |
-| :euro: | [iA Writer](https://ia.net/writer) | A text editor removes distractions, giving you a calm, focused writing space. |
 | :free:* | [Obsidian](https://obsidian.md/) | A private and flexible writing app that adapts to the way you think. |
+| :euro: | [iA Writer](https://ia.net/writer) | A text editor removes distractions, giving you a calm, focused writing space. |
+| :euro: | [Typora](https://typora.io/) | A minimal Markdown editor and reader. |
 | :free:* | [Instapaper](https://www.instapaper.com/) | Syncs the articles and videos you save so that you can read them anywhere and anytime you want, even offline. |
 | :free: | [Simplenote](https://simplenote.com/) | An easy way to keep notes, lists, ideas and more. Light, clean, and free. |
 | :euro: | [Texifier](https://www.texifier.com/mac) | An editor and a productivity tool for academic and professional writing in LaTeX. |
 | :free: | [Buttercup](https://buttercup.pw/) | The Password Manager You Deserve. |
 | :free:* | [1Password](https://itunes.apple.com/us/app/1password-password-manager-and-secure-wallet/id568903335?mt=8) | Put Passwords In Their Place. |
+| :free:* | [Bitwarden](https://bitwarden.com/) | A trusted, open source password manager. |
 | :euro: | [1Keyboard](https://itunes.apple.com/us/app/1keyboard/id766939888?mt=12) | Type on your iPhone, iPad or Apple TV using your Mac's keyboard. |
 | :free:* | [Dropbox](https://www.dropbox.com/) | Bring your photos, docs, and videos anywhere and keep your files safe. |
 | :euro:* | [PDF Expert](https://pdfexpert.com/) | Read, annotate and edit PDFs, change text and images. Fill forms and sign contracts like never before. |
@@ -104,6 +106,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :free: | [RVM](https://rvm.io/) | Ruby Version Manager. |
 | :free: | [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) | Includes a complete JRE plus tools for developing, debugging, and monitoring Java applications. |
 | :free: | [iTerm2](https://www.iterm2.com/) | A replacement for Terminal and the successor to iTerm. |
+| :free: | [Ghostty](https://ghostty.org/) | A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
 | :free: | [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) | An open source, community-driven framework for managing your zsh configuration. |
 | :free: | [Powerlevel10k](https://github.com/romkatv/powerlevel10k) | The most awesome Powerline theme for ZSH around. |
 | :free: | [Alacritty](https://github.com/jwilm/alacritty) | A cross-platform, GPU-accelerated terminal emulator (the fastest in existence). |
