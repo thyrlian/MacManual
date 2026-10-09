@@ -152,8 +152,10 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 
 * tree
 * wget
-* node
 * [jq](https://jqlang.github.io/jq/)
+* [fzf](https://github.com/junegunn/fzf)
+* [ripgrep](https://github.com/burntsushi/ripgrep)
+* [fd](https://github.com/sharkdp/fd)
 * webp
 * [monitorcontrol](https://github.com/MonitorControl/MonitorControl)
 * [axel](https://github.com/axel-download-accelerator/axel)
