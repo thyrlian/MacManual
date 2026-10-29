@@ -34,6 +34,7 @@ Before getting started, make sure you have a :apple::computer:.  If you don't ha
 | :euro: | [OmniFocus](https://www.omnigroup.com/omnifocus) | A personal task manager designed to quickly capture your thoughts and allow you to store, manage, and process them into actionable to-do items. |
 | :euro: | [OmniGraffle](https://www.omnigroup.com/omnigraffle) | A diagramming and digital illustration application for creating beautiful, precise graphics. |
 | :free:* | [Obsidian](https://obsidian.md/) | A private and flexible writing app that adapts to the way you think. |
+| :free: | [Markdown Preview](https://markdownpreview.app/) | A fast, native macOS app for reading Markdown files. |
 | :euro: | [iA Writer](https://ia.net/writer) | A text editor removes distractions, giving you a calm, focused writing space. |
 | :euro: | [Typora](https://typora.io/) | A minimal Markdown editor and reader. |
 | :free:* | [Instapaper](https://www.instapaper.com/) | Syncs the articles and videos you save so that you can read them anywhere and anytime you want, even offline. |
